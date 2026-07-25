@@ -1,2 +1,4 @@
 # Quantum Machine Learning
 -> Quantum Encoders survey and implementation for specific tasks and their comparison against each other.
+-> Quantum hybrid QCNN implementation, to classify images in CIFAR-10 dataset, using CNN extractor(followed by LDA dimn reduction) or using Quanvolution extractor
+   it also include Resnet analogy to QCNN, so that data or features can be reuploaded in both parallel and sequential architecture.
